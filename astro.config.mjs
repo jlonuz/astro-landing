@@ -6,6 +6,6 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   integrations: [tailwind()],
   site: 'https://jlonuz.github.io',
-  base: '/astro-landing/_astro',
+  base: '/astro-landing/',
 
 });
